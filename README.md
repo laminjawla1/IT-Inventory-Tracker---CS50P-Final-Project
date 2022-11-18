@@ -16,7 +16,7 @@
 
 
 
-                                                ####PROJECT.PY
+                                                #### PROJECT.PY
 
 
     1. DASHBOARD:
@@ -66,7 +66,7 @@
             The clear function clears the screen for a better user experience
     
 
-                                            ####INV-UTILS.PY
+                                            #### INV-UTILS.PY
 
     
     1. INVENTORY:
@@ -95,7 +95,7 @@
             It will keep prompting the user, so long as they failed to cooperate.           
 
 
-                                            ####HOW CAN IT BE IMPROVED
+                                            #### HOW CAN IT BE IMPROVED
 
     - Incorporating graphical user interfaces for navigation instead of commands
 
